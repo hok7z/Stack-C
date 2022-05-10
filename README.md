@@ -1,8 +1,6 @@
 # Stack 
 Is an implementation of a dynamic stack in C.
 
-![Stack](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lifo_stack.svg/1280px-Lifo_stack.svg.png)
-
 ````c
 #include <stdio.h>
 #include "stack.h"
